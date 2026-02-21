@@ -2,7 +2,8 @@
 layout: post
 title: "Pay yourself first"
 date: 2025-04-19
-tags: [Money]
+category: Insight
+tags: [money]
 ---
 
 In the world of personal finance, there is one concept that is frequently mentioned but rarely mastered: **“Pay yourself first.”** Most people misunderstand this; they think paying themselves means buying a gift or a reward after a hard week’s work. In reality, it means setting aside a portion of your income immediately—no matter if it’s your salary or a sudden windfall—into two essential funds: your **Retirement Fund** and your **Emergency Fund**.

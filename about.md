@@ -10,6 +10,3 @@ I started writing in 2021 to document my life — not for an audience, but for m
 This blog is a deliberate migration. I'm moving my most meaningful work to this space — leaving behind the noise, keeping only what endures. Faster. Cleaner. Quieter.
 
 No algorithms to chase. No metrics to watch. Just writing that matters to me, living somewhere it can breathe.
-
-Status: Migrating the archives. Building the future.
----

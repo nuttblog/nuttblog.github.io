@@ -2,8 +2,8 @@
 layout: post
 title: "Tidying your home, tidying your life"
 date: 2021-10-21
-category: Personal
-tags: [Mindset]
+category: Learning
+tags: [mindset, personal]
 ---
 
 I happened to watch an episode of the series **"Tidying Up with Marie Kondo,"** and there was one scene that I truly loved.

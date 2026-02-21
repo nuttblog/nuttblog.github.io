@@ -2,7 +2,8 @@
 layout: post
 title: "My brother chase his dream in New Zealand"
 date: 2026-02-17
-category: Personal
+category: Journey
+tags: [family]
 ---
 
 Yesterday was a milestone day for our family. My wife, my parents, my younger brother, my sister-in-law, and I all gathered at the airport to say a bittersweet goodbye. My **older brother** is heading off to **Nelson, New Zealand**, to start a new chapter as a Restaurant Manager.

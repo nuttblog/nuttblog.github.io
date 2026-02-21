@@ -3,6 +3,7 @@ layout: post
 title: "The Feynman Technique"
 date: 2024-10-18
 Category: Learning
+Tags: [skills]
 ---
 
 The most critical skill in the modern era is **"Learning how to learn."** As Cal Newport often suggests, the true test of mastery is the ability to teach others. This philosophy was personified by **Richard Feynman**, a Nobel Prize-winning physicist known as "The Great Explainer." Feynman had a unique ability to strip away the complexity of high-level physics and make it understandable to almost anyone.

@@ -45,7 +45,6 @@ author: "ชื่อคุณ"
 layout: post
 title: "ชื่อบทความ"
 date: 2024-01-15
-tags: [tag1, tag2]   # optional
 ---
 ```
 

@@ -431,3 +431,8 @@ pre code {
   margin-bottom: 2rem;
   line-height: 1.6;
 }
+
+.archive-link {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+}

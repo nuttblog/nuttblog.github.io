@@ -23,6 +23,6 @@ Surprisingly, the more I let go, the happier I became. Anyone who has decluttere
 ---
 
 ### 2026: The Migration
-Fast forward to today, and I’m reorganizing my digital footprint. I’ve deleted articles that no longer hold value and migrated the rest to Bear Blog because the platform is **clean af**. 
+Fast forward to today, and I’m reorganizing my digital footprint. I’ve deleted articles that no longer hold value and migrated the rest to this Jekyll theme Blog because the platform is **clean af**. 
 
 I truly hope Herman keeps this running for a lifetime.

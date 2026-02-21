@@ -13,7 +13,7 @@ This blog lives at the intersection of three themes that shape who I am:
 * Learning — ideas and lessons that change how I think.
 * Journey — the stories and experiences along the way.
 
-This site is also a deliberate migration. I’m moving my most meaningful work here — leaving behind the noise and keeping only what endures. Faster. Cleaner. Quieter.\
+This site is also a deliberate migration. I’m moving my most meaningful work here — leaving behind the noise and keeping only what endures. Faster. Cleaner. Quieter.
 
 No algorithms to chase. No metrics to watch. Just writing that matters to me, living somewhere it can breathe.
 

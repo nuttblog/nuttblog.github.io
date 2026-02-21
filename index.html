@@ -2,9 +2,9 @@
 layout: default
 ---
 <p class="site-description">Quiet little blog where I dump thoughts, stories, and life lessons. Not built for clicks, just a personal space to reflect and document the journey.</p>
-
 <div class="post-list">
-  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% assign recent_posts = site.posts | limit: 10 %}
+  {% assign posts_by_year = recent_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year_group in posts_by_year %}
   <div class="year-group">
     <h2 class="year-label">{{ year_group.name }}</h2>
@@ -19,3 +19,7 @@ layout: default
   </div>
   {% endfor %}
 </div>
+
+{% if site.posts.size > 10 %}
+<p class="archive-link"><a href="{{ '/archive/' | relative_url }}">All posts →</a></p>
+{% endif %}

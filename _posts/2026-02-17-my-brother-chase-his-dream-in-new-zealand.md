@@ -2,7 +2,7 @@
 layout: post
 title: "My brother chase his dream in New Zealand"
 date: 2026-02-17
-tags: [Personal]
+category: Personal
 ---
 
 Yesterday was a milestone day for our family. My wife, my parents, my younger brother, my sister-in-law, and I all gathered at the airport to say a bittersweet goodbye. My **older brother** is heading off to **Nelson, New Zealand**, to start a new chapter as a Restaurant Manager.
@@ -31,7 +31,3 @@ I am incredibly proud of him. After years of searching and struggling, he’s fi
 I’ll be cheering him on and supporting him from afar. New Zealand isn't just getting a manager; they’re getting a man who knows exactly what it means to work for his dreams.
 
 **Good luck, bro. You earned this.**
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>

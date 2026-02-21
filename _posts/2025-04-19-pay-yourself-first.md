@@ -2,7 +2,7 @@
 layout: post
 title: "Pay yourself first"
 date: 2025-04-19
-category: Insight
+category: Learning
 tags: [money]
 ---
 

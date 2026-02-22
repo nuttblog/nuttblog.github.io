@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Backstory"
+title: "The backstory"
 date: 2026-02-20
 category: Journey
 tags: [blog]

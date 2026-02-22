@@ -42,8 +42,3 @@ The common thread among experts like Feynman is a commitment to **Simplicity**.
 Often, people use complex terms and "buzzwords" to mask their own confusion or to avoid admitting they don't know the answer. Admitting "I don't know" is the most important step in the learning process. 
 
 **Complexity is easy; simplicity is the true mark of mastery.**
-
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>

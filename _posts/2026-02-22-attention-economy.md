@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attention economy"
-date: 2026-02-23 09:00:00 +0700
+date: 2026-02-22 09:00:00 +0700
 ---
 
 In 2025, MrBeast shared a [staggering realization](https://x.com/MrBeast/status/1988244153239577015?s=20): YouTube alone consumes roughly **2% of the total time** available to every human being on Earth each day. This equals about 29 minutes per person, globally. While that sounds significant, it is only the tip of the iceberg. 

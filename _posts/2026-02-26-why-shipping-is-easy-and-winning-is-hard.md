@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why shipping is easy and winning is hard"
-date: 2026-02-26 12:00:00 -0000
+date: 2026-02-26 00:00:00 -0000
 description: "Infrastructure has never been cheaper. But winning has never been harder. In the $20 SaaS era, shipping is easy—mattering is not."
 ---
 
